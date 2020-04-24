@@ -1,0 +1,2 @@
+time python estimator_attn_gc.py --mode train --epochs 10  --data_dir ./data --inpfx uno_top21_auc
+
